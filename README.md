@@ -15,7 +15,7 @@ Our community is a collaborative and innovative space where US government affili
 
 ### 2. Explore Resources
 
-- **Documentation**: Check out our [documentation](#) for guides, tutorials, and reference materials.
+- **Documentation**: Check out our [documentation](https://github.com/usaicop/Knowledge-Base/wiki) for guides, tutorials, and reference materials.
 - **Repositories**: Browse our [GitHub repositories](https://github.com/usaicop) to find open source projects you can contribute to or learn from.
 
 ### 3. Stay Connected
