@@ -1,3 +1,6 @@
+![US AI Community of Practice Knowledge Base](https://github.com/usaicop/.github/blob/main/knowledge-base.jpg) 
+
+
 # Start with the US AI Community of Practice
 
 Welcome to the US AI Community of Practice! We’re excited to have you join us. This guide will help you get started and make the most of your experience here.
