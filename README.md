@@ -1,4 +1,4 @@
-# Getting Started with the US AI Community of Practice
+# Start with the US AI Community of Practice
 
 Welcome to the US AI Community of Practice! We’re excited to have you join us. This guide will help you get started and make the most of your experience here.
 
