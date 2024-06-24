@@ -13,7 +13,7 @@ Our community is a collaborative and innovative space where US government affili
 
 ### 1. Join the Community
 
-- **Sign Up**: [Create an account](https://github.com/signup) on Github and [Submit a Discussion Topic](https://github.com/orgs/usaicop/discussions).
+- **Sign Up**: [Create an account](https://github.com/signup) on Github.
 - **Introduce Yourself**: Post a brief introduction in the [Introductions thread](https://github.com/orgs/usaicop/discussions/5).
 
 ### 2. Explore Resources
